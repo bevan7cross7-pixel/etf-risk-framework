@@ -1,0 +1,13 @@
+ETF_ID,Ticker,ETF_Name,Asset_Class
+VWRP,VWRP.L,Vanguard FTSE All-World UCITS ETF,Equity
+SWDA,SWDA.L,iShares Core MSCI World UCITS ETF,Equity
+VUAG,VUAG.L,Vanguard S&P 500 UCITS ETF,Equity
+ISF,ISF.L,iShares Core FTSE 100 UCITS ETF,Equity
+EQQQ,EQQQ.L,Invesco EQQQ Nasdaq-100 UCITS ETF,Equity
+VEUR,VEUR.L,Vanguard FTSE Developed Europe UCITS ETF,Equity
+VJPN,VJPN.L,Vanguard FTSE Japan UCITS ETF,Equity
+VFEG,VFEG.L,Vanguard FTSE Emerging Markets UCITS ETF,Equity
+ICHN,ICHN.AS,iShares MSCI China UCITS ETF,Equity
+IUIT,IUIT.L,iShares S&P 500 Information Technology Sector UCITS ETF,Equity
+IUHC,IUHC.L,iShares S&P 500 Health Care Sector UCITS ETF,Equity
+INRG,INRG.L,iShares Global Clean Energy Transition UCITS ETF,Equity
