@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment variables and credentials
+.env
+secrets.json
+
+# Raw data
+data/raw/*
+!data/raw/.gitkeep
