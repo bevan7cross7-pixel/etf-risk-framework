@@ -1,0 +1,21 @@
+ETF_ID,ETF_Name,Ticker,Asset_Class,Number_of_Holdings,Holdings_Count_Risk,Main_Currency_Exposure,Currency_Risk_Level,Currency_Risk_Score
+VWRP,Vanguard FTSE All-World UCITS ETF,VWRP.L,Equity,3782,18.07,USD-dominant / multi-currency,Medium,50
+SWDA,iShares Core MSCI World UCITS ETF,SWDA.L,Equity,1283,29.8,USD-dominant / multi-currency developed markets,Medium,50
+VUAG,Vanguard S&P 500 UCITS ETF,VUAG.L,Equity,504,39.94,USD,Medium,50
+ISF,iShares Core FTSE 100 UCITS ETF,ISF.L,Equity,100,57.41,GBP-dominant,Low,25
+EQQQ,Invesco EQQQ Nasdaq-100 UCITS ETF,EQQQ.L,Equity,100,57.41,USD,Medium,50
+VEUR,Vanguard FTSE Developed Europe UCITS ETF,VEUR.L,Equity,515,39.7,EUR/GBP/CHF/multi-Europe,Medium,50
+VJPN,Vanguard FTSE Japan UCITS ETF,VJPN.L,Equity,476,40.55,JPY,Medium,50
+VFEG,Vanguard FTSE Emerging Markets UCITS ETF,VFEG.L,Equity,2306,23.44,TWD/CNY/INR/BRL/ZAR/SAR/MXN/multi-EM,High,75
+ICHN,iShares MSCI China UCITS ETF,ICHN.AS,Equity,576,38.49,CNY/HKD/USD,High,75
+IUIT,iShares S&P 500 Information Technology Sector UCITS ETF,IUIT.L,Equity,74,60.64,USD,Medium,50
+IUHC,iShares S&P 500 Health Care Sector UCITS ETF,IUHC.L,Equity,60,62.89,USD,Medium,50
+INRG,iShares Global Clean Energy Transition UCITS ETF,INRG.L,Equity,106,56.79,USD / multi-country,High,75
+VGOV,Vanguard U.K. Gilt UCITS ETF,VGOV.L,Bond,64,62.2,GBP,Low,25
+IGLO,iShares Global Govt Bond UCITS ETF,IGLO.L,Bond,895,33.71,USD / multi-developed government bond currencies,Medium,50
+IBTG,iShares $ Treasury Bond 1-3yr UCITS ETF GBP Hedged,IBTG.L,Bond,91,58.43,GBP-hedged USD Treasury exposure,Low,25
+AGGG,iShares Core Global Aggregate Bond UCITS ETF,AGGG.L,Bond,19974,0.0,USD / multi-currency global aggregate bonds,Medium,50
+CORP,iShares Global Corp Bond UCITS ETF,CORP.L,Bond,14720,3.31,USD / multi-currency global corporate bonds,Medium,50
+GHYS,iShares Global High Yield Corp Bond GBP Hedged UCITS ETF,GHYS.L,Bond,1768,26.32,GBP-hedged global high-yield exposure,Low,25
+SGLN,iShares Physical Gold ETC,SGLN.L,Gold,1,100.0,USD gold price exposure,Medium,50
+IWDP,iShares Developed Markets Property Yield UCITS ETF,IWDP.L,Property,315,45.03,USD / multi-developed property currencies,Medium,50
