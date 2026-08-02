@@ -158,6 +158,15 @@ The project produces:
 - Historical risk does not guarantee future outcomes.
 - The framework is a comparative risk indicator rather than a precise loss forecast.
 
+## Documentation
+
+The Project documentation is available here:
+
+- [Methodology](docs/methodology.md)
+- [Data Dictionary](docs/data_dictionary.md)
+- [Limitations](docs/limitations.md)
+- [Reproducibility Instructions](docs/reproducibility.md)
+
 ## Disclaimer
 
 This project is for academic and educational purposes only. It does not constitute financial advice.
